@@ -1,4 +1,5 @@
-Python_Tutorial
-===============
+Programming and Computing Group 
+===============================
 
-A tutorial for biologist 
+It is a student activity group at NCBS Bangalore.
+
